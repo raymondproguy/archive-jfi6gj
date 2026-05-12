@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raymondproguy.github.io/archive-jfi6gj/sitemap.xml
